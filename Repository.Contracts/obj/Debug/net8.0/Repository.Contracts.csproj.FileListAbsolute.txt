@@ -1,0 +1,17 @@
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Repository.Contracts.deps.json
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Repository.Contracts.dll
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Repository.Contracts.pdb
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.AssemblyInfoInputs.cache
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.AssemblyInfo.cs
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.dll
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\refint\Repository.Contracts.dll
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.pdb
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\ref\Repository.Contracts.dll
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.csproj.AssemblyReference.cache
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Reposito.B36172BA.Up2Date
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\bin\Debug\net8.0\Repository.Contracts.runtimeconfig.json
+C:\Users\Perdorues\Desktop\PlayBowling\Repository.Contracts\obj\Debug\net8.0\Repository.Contracts.genruntimeconfig.cache

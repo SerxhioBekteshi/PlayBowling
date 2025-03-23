@@ -1,0 +1,6 @@
+@PlayBowling_HostAddress = http://localhost:5068
+
+GET {{PlayBowling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

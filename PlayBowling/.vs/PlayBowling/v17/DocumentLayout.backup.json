@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7F71CF-E719-49B8-B048-26354BB382E8}|..\\Service\\Service.csproj|c:\\users\\perdorues\\desktop\\playbowling\\service\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA58565B-E065-4FA0-9B8A-99CF88ED4109}|..\\Repository\\Repository.csproj|c:\\users\\perdorues\\desktop\\playbowling\\repository\\gameframerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|c:\\users\\perdorues\\desktop\\playbowling\\playbowling\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60E5BA7C-F26C-4EE5-BE72-5DC874637E32}|..\\Service.Contracts\\Service.Contracts.csproj|c:\\users\\perdorues\\desktop\\playbowling\\service.contracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA5B594-41B2-4821-A438-AFB7DD052409}|..\\Shared\\Shared.csproj|c:\\users\\perdorues\\desktop\\playbowling\\shared\\responsefeatures\\gameresultsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B00484-C33E-40B0-A7E6-31FDB25E2A01}|..\\Entities\\Entities.csproj|c:\\users\\perdorues\\desktop\\playbowling\\entities\\models\\gameframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA5B594-41B2-4821-A438-AFB7DD052409}|..\\Shared\\Shared.csproj|c:\\users\\perdorues\\desktop\\playbowling\\shared\\dto\\gamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|c:\\users\\perdorues\\desktop\\playbowling\\playbowling\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|c:\\users\\perdorues\\desktop\\playbowling\\playbowling\\controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F900BC-0108-445D-9C78-FDB718D08D00}|PlayBowling.csproj|solutionrelative:controllers\\framecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameFrameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Repository\\GameFrameRepository.cs",
+              "RelativeDocumentMoniker": "..\\Repository\\GameFrameRepository.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Repository\\GameFrameRepository.cs",
+              "RelativeToolTip": "..\\Repository\\GameFrameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T21:39:20.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameResultsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Shared\\ResponseFeatures\\GameResultsDTO.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\ResponseFeatures\\GameResultsDTO.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Shared\\ResponseFeatures\\GameResultsDTO.cs",
+              "RelativeToolTip": "..\\Shared\\ResponseFeatures\\GameResultsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:50:57.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Service.Contracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "..\\Service.Contracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Service.Contracts\\IGameService.cs",
+              "RelativeToolTip": "..\\Service.Contracts\\IGameService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvw8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:49:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameFrame.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Entities\\Models\\GameFrame.cs",
+              "RelativeDocumentMoniker": "..\\Entities\\Models\\GameFrame.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Entities\\Models\\GameFrame.cs",
+              "RelativeToolTip": "..\\Entities\\Models\\GameFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T18:38:43.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Shared\\DTO\\GameDTO.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\DTO\\GameDTO.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Shared\\DTO\\GameDTO.cs",
+              "RelativeToolTip": "..\\Shared\\DTO\\GameDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T17:23:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Service\\GameService.cs",
+              "RelativeDocumentMoniker": "..\\Service\\GameService.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\Service\\GameService.cs",
+              "RelativeToolTip": "..\\Service\\GameService.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwKYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:02:55.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T23:01:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:23:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrameController.cs",
+              "DocumentMoniker": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\Controllers\\FrameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FrameController.cs",
+              "ToolTip": "C:\\Users\\Perdorues\\Desktop\\PlayBowling\\PlayBowling\\Controllers\\FrameController.cs",
+              "RelativeToolTip": "Controllers\\FrameController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T19:23:39.448Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
