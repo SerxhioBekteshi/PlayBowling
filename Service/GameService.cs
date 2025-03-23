@@ -148,7 +148,7 @@ namespace Service
 
 
                 if (isStrike || isSpare)
-                {
+                {0
                     //MISCONCEPT OF POINTS CALCULATION
                     //if(gamePointsDTO.FrameId > 1)
                     //{
